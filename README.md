@@ -1,1 +1,1 @@
-"# Kurssin osien tehtavat" 
+# Kurssin osien tehtavat
