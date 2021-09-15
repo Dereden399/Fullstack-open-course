@@ -1,7 +1,0 @@
-"Osa 1"/anekdootit/node_modules/
-"Osa 1"/kurssitiedot/node_modules/
-"Osa 1"/unicafe/node_modules/
-"Osa 2"/kurssitiedot2.0/node_modules/
-"Osa 2"/maiden-tiedot/node_modules/
-"Osa 2"/puhelinluettelo/node_modules/
-"Osa 3"/puhelinluetteloBackend/node_modules/
