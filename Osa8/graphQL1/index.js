@@ -20,8 +20,7 @@ const PASSWORD = "qwerty123"
 
 console.log("connecting to MongoDB")
 
-const MONGODB_URI =
-  "mongodb+srv://graphqluser:nVBCkOKdA4iwnsT4@cluster0.of10x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+const MONGODB_URI = process.env.MONGODB_URI
 mongoose
   .connect(MONGODB_URI)
   .then(() => console.log("connected to MongoDB"))
